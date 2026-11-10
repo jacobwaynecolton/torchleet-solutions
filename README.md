@@ -5,3 +5,4 @@ My solutions to [TorchLeet](https://github.com/Exorust/TorchLeet) problems, done
 | Problem | Difficulty | Notebook |
 |---|---|---|
 | Softmax from scratch (numerically stable) | Easy | [softmax/softmax.ipynb](softmax/softmax.ipynb) |
+| Custom Dataset and DataLoader from CSV | Easy | [custom-dataset/custom_dataset.ipynb](custom-dataset/custom_dataset.ipynb) |
